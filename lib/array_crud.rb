@@ -7,7 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  ["happy", "sad", "angry", "nervous"] << "anxiety"
+  ["happy", "sad", "angry", "nervous"] << "array"
+  
 end
 
 def add_element_to_start_of_array(array, element)
